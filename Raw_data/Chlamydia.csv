@@ -1,19 +1,4 @@
-﻿"Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, England, 2015 to 2024",,,,,,,,,,,,,,,,
-This worksheet contains 10 tables presented below each other.,,,,,,,,,,,,,,,,
-Some cells refer to notes which can be found on the Notes and glossary worksheet.,,,,,,,,,,,,,,,,
-Data type: residence data [note 3].,,,,,,,,,,,,,,,,
-A list of hyperlinks to the UKHSA region level data in this worksheet for easy navigation. ,,,,,,,,,,,,,,,,
-North East,,,,,,,,,,,,,,,,
-North West,,,,,,,,,,,,,,,,
-Yorkshire and The Humber,,,,,,,,,,,,,,,,
-East Midlands,,,,,,,,,,,,,,,,
-West Midlands,,,,,,,,,,,,,,,,
-East,,,,,,,,,,,,,,,,
-London,,,,,,,,,,,,,,,,
-South East,,,,,,,,,,,,,,,,
-South West,,,,,,,,,,,,,,,,
-"Table 2. Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, England, 2015 to 2024",,,,,,,,,,,,,,,,
-Area of residence,Tests or diagnoses,"Gender identity
+﻿Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
 [note 10]",2022,2023,2024,"Percentage change
@@ -30,7 +15,7 @@ England,Diagnoses,Men,15 to 19,"13,753","12,976","12,734","13,180","13,506","8,4
 England,Diagnoses,Men,20 to 24,"31,379","31,689","31,629","32,894","32,889","22,537","20,948","26,574","25,897","21,244",-18.0,,
 England,Diagnoses,Total,15 to 19,"52,952","50,852","49,630","50,470","50,924","32,874","29,756","38,616","36,783","29,886",-18.8,,
 England,Diagnoses,Total,20 to 24,"77,743","78,973","79,274","82,903","84,314","60,280","56,202","69,948","67,225","55,871",-16.9,,
-"Table 2(a). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, North East, 2015 to 2024",,,,,,,,,,,,,,,,
+England,Diagnoses,Total,15 to 24,"130,695","129,825","128,904","133,373","135,238","93,154","85,958","108,564","104,008","85,757",-36,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -48,7 +33,6 @@ North East,Diagnoses,Men,15 to 19,764,758,855,700,733,512,424,658,556,501,-9.9,,
 North East,Diagnoses,Men,20 to 24,"1,509","1,498","1,567","1,356","1,345","1,053","1,049","1,339","1,221","1,057",-13.4,,
 North East,Diagnoses,Total,15 to 19,"2,735","2,702","3,208","2,524","2,522","1,919","1,711","2,405","2,167","1,882",-13.2,,
 North East,Diagnoses,Total,20 to 24,"3,519","3,621","3,880","3,480","3,499","2,955","2,855","3,485","3,132","2,976",-5.0,,
-"Table 2(b). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, North West, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -66,7 +50,6 @@ North West,Diagnoses,Men,15 to 19,"2,199","1,971","1,844","1,992","1,744",954,"1
 North West,Diagnoses,Men,20 to 24,"4,745","4,622","4,243","4,288","3,884","2,445","2,488","3,358","3,653","2,867",-21.5,,
 North West,Diagnoses,Total,15 to 19,"9,289","8,371","7,918","7,880","6,941","4,126","4,381","5,983","6,157","4,888",-20.6,,
 North West,Diagnoses,Total,20 to 24,"12,216","12,113","11,247","11,276","10,487","6,939","7,238","9,874","9,969","7,943",-20.3,,
-"Table 2(c). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, Yorkshire and The Humber, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -84,7 +67,6 @@ Yorkshire and The Humber,Diagnoses,Men,15 to 19,"1,762","1,672","1,661","1,457",
 Yorkshire and The Humber,Diagnoses,Men,20 to 24,"3,309","3,445","3,708","3,421","3,425","2,277","2,190","2,893","2,515","1,926",-23.4,,
 Yorkshire and The Humber,Diagnoses,Total,15 to 19,"6,535","6,540","6,457","5,639","5,973","3,880","3,734","4,736","4,199","3,409",-18.8,,
 Yorkshire and The Humber,Diagnoses,Total,20 to 24,"8,144","8,561","9,293","8,623","9,035","6,459","6,081","7,807","7,016","5,593",-20.3,,
-"Table 2(d). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, East Midlands, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -102,7 +84,6 @@ East Midlands,Diagnoses,Men,15 to 19,"1,257","1,202","1,152","1,146","1,174",797
 East Midlands,Diagnoses,Men,20 to 24,"2,567","2,739","2,708","2,799","2,648","1,898","1,904","2,644","2,452","2,041",-16.8,,
 East Midlands,Diagnoses,Total,15 to 19,4765,4708,4371,4515,4477,3012,2935,4295,3874,2994,-22.7,,
 East Midlands,Diagnoses,Total,20 to 24,6492,6855,6939,7174,7005,5100,5186,7028,6363,5217,-18.0,,
-"Table 2(e). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, West Midlands, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -120,7 +101,6 @@ West Midlands,Diagnoses,Men,15 to 19,"1,311","1,336","1,156","1,151","1,261",821
 West Midlands,Diagnoses,Men,20 to 24,"2,926","3,111","2,796","2,824","2,792","1,969","1,792","2,175","1,947","1,622",-16.7,,
 West Midlands,Diagnoses,Total,15 to 19,"5,274","5,264","4,676","4,576","4,807","3,345","3,039","3,472","3,246","2,655",-18.2,,
 West Midlands,Diagnoses,Total,20 to 24,"7,389","7,875","7,285","7,380","7,600","5,374","5,176","6,103","5,484","4,560",-16.8,,
-"Table 2(f). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, East, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or Diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -138,7 +118,6 @@ East,Diagnoses,Men,15 to 19,"1,125",995,"1,046","1,136","1,221",805,638,790,848,
 East,Diagnoses,Men,20 to 24,"2,648","2,512","2,758","2,828","3,005","2,299","1,967","2,165","2,136","1,578",-26.1,,
 East,Diagnoses,Total,15 to 19,"4,425","3,887","4,059","4,406","4,681","3,218","2,584","3,096","3,150","2,433",-22.8,,
 East,Diagnoses,Total,20 to 24,"6,722","6,401","6,928","7,228","7,648","6,093","5,380","5,675","5,467","4,388",-19.7,,
-"Table 2(g). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, London, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -156,7 +135,6 @@ London,Diagnoses,Men,15 to 19,"2,260","2,162","2,113","2,634","2,763","1,668","1
 London,Diagnoses,Men,20 to 24,"6,402","6,540","6,264","7,684","8,255","5,351","5,054","5,925","6,003","5,184",-13.6,,
 London,Diagnoses,Total,15 to 19,"8,291","8,360","7,786","9,218","9,871","5,957","5,131","5,755","5,515","4,700",-14.8,,
 London,Diagnoses,Total,20 to 24,"15,482","15,860","15,106","17,953","19,499","12,936","11,974","13,842","13,797","11,895",-13.8,,
-"Table 2(h). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, South East, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -174,7 +152,6 @@ South East,Diagnoses,Men,15 to 19,"1,648","1,522","1,506","1,527","1,704","1,031
 South East,Diagnoses,Men,20 to 24,"3,903","3,994","4,159","4,048","4,240","2,832","2,255","2,962","3,049","2,559",-16.1,,
 South East,Diagnoses,Total,15 to 19,"6,307","5,946","5,943","6,255","6,542","4,050","3,323","4,266","4,310","3,569",-17.2,,
 South East,Diagnoses,Total,20 to 24,"9,680","9,873","10,300","10,756","11,225","8,062","6,192","7,689","7,905","6,657",-15.8,,
-"Table 2(i). Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, South West, 2015 to 2024",,,,,,,,,,,,,,,,
 Area of residence,Tests or diagnoses,"Gender identity
 [note 5]",Age,2015,2016,2017,2018,2019,"2020 
 [note 10]","2021
@@ -192,3 +169,27 @@ South West,Diagnoses,Men,15 to 19,"1,176","1,216","1,215","1,197","1,137",753,57
 South West,Diagnoses,Men,20 to 24,"2,774","2,904","2,938","3,129","2,905","1,962","1,625","2,312","2,274","1,816",-20.1,,
 South West,Diagnoses,Total,15 to 19,"4,603","4,648","4,663","4,670","4,482","2,846","2,330","3,712","3,341","2,605",-22.0,,
 South West,Diagnoses,Total,20 to 24,"6,912","7,197","7,333","7,857","7,400","5,201","4,468","6,367","6,134","5,059",-17.5,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
