@@ -24,7 +24,7 @@ Factors that could interfere with the Chlamydia diagnoses data include the Covid
 It is noted that the 'Data presented in relation to gender identity may, or may not, be the same as sex registered at birth. The data total may include people who are gender diverse or those reported with an unknown gender. Therefore, the sum of data for men and women may not equal the data total'(GOV.UK, 2025). To combat this, I will use only the data in the 'Total' rows of the Gender column not the data in the rows labelled 'Male' and 'Female'. 
 
 
-# Final thoughts
+## Final thoughts
 
 There appears to be no trend with annual rainfall and sunshine in England and the Chlamydia diagnoses of people aged 15 to 24 years in England between 2015 to 2024. 
 
