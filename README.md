@@ -3,7 +3,8 @@
 
 This is the final project of Kiara Martin for the Peckham Digital Accelerator Zone: Introduction to Data Science course. 
 
-I will be comparing annual sunshine and rainfall data in England from 2015-2024 from (https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series) against annual chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data from (https://www.gov.uk/government/statistics/sexually-transmitted-infections-stis-annual-data-tables/sexually-transmitted-infections-and-screening-for-chlamydia-in-england-2024-report), in attempts to identify a possible correlation between the two datasets.
+I will be cleaning and comparing annual sunshine and rainfall data in England from 2015 to 2024 (Met Office, 2025) against annual chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data (GOV.UK, 2025) in attempts to identify a possible correlation between the two datasets.
+
 
 
 
@@ -25,3 +26,20 @@ If identified this data would be useful to UK public health authorities in preve
 Factors that could interfere with the chlamydia diagnoses data include the Covid-19 pandemic ranging from the years 2020 to 2021. The data sourced states that there 'is notably lower than previous years due to the reconfiguration of sexual health services during the national response to the COVID-19 pandemic.' Other factors that alter chlamydia diagnostic rate include age, socioeconomic status (Crichton, J. et al., 2015), gender, sexual orientation, sexual behaviour (GOV.UK, 2025).
 
 It is noted that the 'Data presented in relation to gender identity may, or may not, be the same as sex registered at birth. The data total may include people who are gender diverse or those reported with an unknown gender. Therefore, the sum of data for men and women may not equal the data total'(GOV.UK, 2025). To combat this, I will use only the data in the 'Total' rows of the Gender column not the data in the rows labelled 'Male' and 'Female'. 
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to the team at Peckham DAZ and to my mentor, Yifan Feng, for their invaluable guidance and support throughout the duration of this course.
+
+
+## References 
+
+Crichton, J. et al. (2015) ‘Socioeconomic factors and other sources of variation in the prevalence of genital chlamydia infections: A systematic review and meta-analysis’, BMC Public Health, 15(1). doi:10.1186/s12889-015-2069-7. 
+
+Sexually transmitted infections and screening for Chlamydia in England: 2024 report (2025) GOV.UK. Available at: https://www.gov.uk/government/statistics/sexually-transmitted-infections-stis-annual-data-tables/sexually-transmitted-infections-and-screening-for-chlamydia-in-england-2024-report (Accessed: 31 July 2025). 
+
+Sexually transmitted infections and screening for Chlamydia in England: 2024 report (2005) GOV.UK. Available at: https://www.gov.uk/government/statistics/sexually-transmitted-infections-stis-annual-data-tables/sexually-transmitted-infections-and-screening-for-chlamydia-in-england-2024-report#populations-with-greater-sexual-health-needs (Accessed: 31 July 2025). 
+
+UK and Regional Series (2025) Met Office. Available at: https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series (Accessed: 31 July 2025). 
+
+
