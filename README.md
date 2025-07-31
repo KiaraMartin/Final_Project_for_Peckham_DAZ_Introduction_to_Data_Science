@@ -10,7 +10,7 @@ I will be cleaning and comparing annual sunshine and rainfall data in England fr
 
 Initial hypothesis: When the rainfall volume decreases and the hours of sunshine increase so will the diagnostic rate of sexually transmitted infection (STI)s increase due to more socialisation between sexual partners.
 
-Initially I wanted to be comparing UK weather sunshine and rainfall data from (https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series)  comparing it against UK diagnosed sexually transmitted infection (GOV.UK, 2025) to identify a possible correlation.
+Initially I wanted to be comparing UK weather sunshine and rainfall data (Met Office, 2025) comparing it against UK diagnosed sexually transmitted infection (GOV.UK, 2025) to identify a possible correlation.
 
 If identified this data would be useful to UK public health authorities in preventing the spread of STIs. This could allow for targeted public health promotions and more effective advertising opportunities for companies selling contraceptive in line with weather predictions. However, I found the parameters of this investigation to be too vast, as a result I needed to narrow them. 
 
@@ -51,5 +51,4 @@ Sexually transmitted infections and screening for Chlamydia in England: 2024 rep
 Sexually transmitted infections and screening for Chlamydia in England: 2024 report (2005) GOV.UK. Available at: https://www.gov.uk/government/statistics/sexually-transmitted-infections-stis-annual-data-tables/sexually-transmitted-infections-and-screening-for-chlamydia-in-england-2024-report#populations-with-greater-sexual-health-needs (Accessed: 31 July 2025). 
 
 UK and Regional Series (2025) Met Office. Available at: https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series (Accessed: 31 July 2025). 
-
 
