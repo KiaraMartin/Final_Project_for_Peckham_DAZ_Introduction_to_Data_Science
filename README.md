@@ -4,3 +4,24 @@
 This is the final project of Kiara Martin for the Peckham Digital Accelerator Zone: Introduction to Data Science course. 
 
 I will be comparing annual sunshine and rainfall data in England from 2015-2024 from (https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series) against annual chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data from (https://www.gov.uk/government/statistics/sexually-transmitted-infections-stis-annual-data-tables/sexually-transmitted-infections-and-screening-for-chlamydia-in-england-2024-report), in attempts to identify a possible correlation between the two datasets.
+
+
+
+## Initial thoughts and project planning process.
+
+Initial hypothesis: When the rainfall volume decreases and the hours of sunshine increase so will the diagnostic rate of sexually transmitted infection (STI)s increase due to more socialisation between sexual partners.
+
+Initially I wanted to be comparing UK weather sunshine and rainfall data from (https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series)  comparing it against UK diagnosed sexually transmitted infection (GOV.UK, 2025) to identify a possible correlation.
+
+If identified this data would be useful to UK public health authorities in preventing the spread of STIs. This could allow for targeted public health promotions and more effective advertising opportunities for companies selling contraceptive in line with weather predictions. However, I found the parameters of this investigation to be too vast, as a result I needed to narrow them:
+
+•	I narrowed all STIs of all ages to focus of sexually transmitted infections to Chlamydia in people aged 15 to 24 years. I selected Chlamydia as this is the most commonly diagnosed STI in the UK (GOV.UK, 2025).
+•	I narrowed the geographical range of the UK to just England so to match the weather dataset with the chlamydia diagnoses dataset. The option to use regional data withing England was available however, it is not clear what the exact geographical boundaries of regions are for both datasets for example the boundaries of Midlands and East of England could vary between the datasets.
+
+
+
+## Limitations 
+
+Factors that could interfere with the chlamydia diagnoses data include the Covid-19 pandemic ranging from the years 2020 to 2021. The data sourced states that there 'is notably lower than previous years due to the reconfiguration of sexual health services during the national response to the COVID-19 pandemic.' Other factors that alter chlamydia diagnostic rate include age, socioeconomic status (Crichton, J. et al., 2015), gender, sexual orientation, sexual behaviour (GOV.UK, 2025).
+
+It is noted that the 'Data presented in relation to gender identity may, or may not, be the same as sex registered at birth. The data total may include people who are gender diverse or those reported with an unknown gender. Therefore, the sum of data for men and women may not equal the data total'(GOV.UK, 2025). To combat this, I will use only the data in the 'Total' rows of the Gender column not the data in the rows labelled 'Male' and 'Female'. 
