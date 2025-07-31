@@ -14,10 +14,9 @@ Initial hypothesis: When the rainfall volume decreases and the hours of sunshine
 
 Initially I wanted to be comparing UK weather sunshine and rainfall data from (https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series)  comparing it against UK diagnosed sexually transmitted infection (GOV.UK, 2025) to identify a possible correlation.
 
-If identified this data would be useful to UK public health authorities in preventing the spread of STIs. This could allow for targeted public health promotions and more effective advertising opportunities for companies selling contraceptive in line with weather predictions. However, I found the parameters of this investigation to be too vast, as a result I needed to narrow them:
+If identified this data would be useful to UK public health authorities in preventing the spread of STIs. This could allow for targeted public health promotions and more effective advertising opportunities for companies selling contraceptive in line with weather predictions. However, I found the parameters of this investigation to be too vast, as a result I needed to narrow them. 
 
-•	I narrowed all STIs of all ages to focus of sexually transmitted infections to Chlamydia in people aged 15 to 24 years. I selected Chlamydia as this is the most commonly diagnosed STI in the UK (GOV.UK, 2025).
-•	I narrowed the geographical range of the UK to just England so to match the weather dataset with the chlamydia diagnoses dataset. The option to use regional data withing England was available however, it is not clear what the exact geographical boundaries of regions are for both datasets for example the boundaries of Midlands and East of England could vary between the datasets.
+I narrowed all STIs of all ages to focus of sexually transmitted infections to Chlamydia in people aged 15 to 24 years. I selected Chlamydia as this is the most commonly diagnosed STI in the UK (GOV.UK, 2025).	I narrowed the geographical range of the UK to just England so to match the weather dataset with the chlamydia diagnoses dataset. The option to use regional data withing England was available however, it is not clear what the exact geographical boundaries of regions are for both datasets for example the boundaries of Midlands and East of England could vary between the datasets.
 
 
 
