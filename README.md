@@ -6,7 +6,7 @@ This is the final project of Kiara Martin for the Peckham Digital Accelerator Zo
 I will be cleaning and comparing annual sunshine and rainfall data in England from 2015 to 2024 (Met Office, 2025) against annual Chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data (GOV.UK, 2025) in attempts to identify a possible correlation between the two datasets.
 
 
-## Initial thoughts and project planning process.
+## Initial thoughts and project planning process
 
 Initial hypothesis: When the rainfall volume decreases and the hours of sunshine increase so will the diagnostic rate of sexually transmitted infection (STI)s increase due to more socialisation between sexual partners.
 
