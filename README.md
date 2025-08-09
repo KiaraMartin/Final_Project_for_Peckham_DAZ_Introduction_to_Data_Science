@@ -3,7 +3,35 @@
 
 This is the final project of Kiara Martin for the Peckham Digital Accelerator Zone: Introduction to Data Science course. 
 
-I will be cleaning and comparing annual sunshine and rainfall data in England from 2015 to 2024 (Met Office, 2025) against annual Chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data (GOV.UK, 2025) in attempts to identify a possible correlation between the two datasets.
+I will be cleaning and comparing annual sunshine and rainfall data in England from 2015 to 2024  against annual Chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data in attempts to identify a possible correlation between the two datasets.
+
+## Installation instructions
+
+Python version = Python 3.13.5
+
+When installing Final_Project_V1.ipynb for the first time remove "#" in the first cell to install all the necessary libraries (these can be replaced afterwards), restart the Kernal and select "Run All".
+
+### Python Packages Used
+
+ - pandas
+ - pandas matplotlib
+ - plotly
+ - nbformat
+
+## Data Sources 
+
+ - Sunshine dataset (Met Office, 2025)
+Select "Year ordered statistics", Region as "England", Parameter as "Sunshine".
+This dataset measures monthly, seasonal and annual total duration of bright sunshine for England since 1910.
+   
+ - Rainfall dataset (Met Office, 2025)
+Select "Year ordered statistics", Region as "England", Parameter as "Rainfall".
+This dataset measures monthly, seasonal and annual total precipitation amount for England since 1836.
+
+ - Chlamydia diagnoses dataset (GOV.UK, 2025)
+Select "Table 2: new STI diagnosis numbers and rates in England and regions by gender identity, sexual orientation and age group, 2015 to 2024", select the sheet "2a_Chlaymdia". This dataset measures new STI diagnosis numbers and rates in England and regions by gender identity, sexual orientation and age group, 2015 to 2024. Please note that the  
+   
+   
 
 
 ## Acknowledgements
@@ -13,7 +41,7 @@ I would like to express my sincere gratitude to the team at Peckham DAZ and to m
 
 ## References 
 
-Sexually transmitted infections and screening for Chlamydia in England: 2024 report (2025) GOV.UK. Available at: https://www.gov.uk/government/statistics/sexually-transmitted-infections-stis-annual-data-tables/sexually-transmitted-infections-and-screening-for-chlamydia-in-england-2024-report (Accessed: 31 July 2025). 
+National chlamydia screening programme (NCSP): annual data (2025) GOV.UK. Available at: https://www.gov.uk/government/statistics/national-chlamydia-screening-programme-ncsp-data-tables (Accessed: 31 July 2025). 
 
 UK and Regional Series (2025) Met Office. Available at: https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series (Accessed: 31 July 2025). 
 
