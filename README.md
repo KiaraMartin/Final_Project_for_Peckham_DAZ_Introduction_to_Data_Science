@@ -6,7 +6,7 @@ This is the final project of Kiara Martin for the Peckham Digital Accelerator Zo
 I will be cleaning annual Chlamydia diagnoses in people aged 15 to 24 years, sunshine and rainfall data in England from 2015 to 2024. I will then compare the weather data against Chlamydia diagnostic data in attempts to identify a possible correlation between the two datasets.
 
 
-## Installation instructions
+## Installation Instructions
 
 Python version = Python 3.13.5
 
