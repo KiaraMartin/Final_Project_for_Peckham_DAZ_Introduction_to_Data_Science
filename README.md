@@ -21,15 +21,16 @@ When installing Final_Project_V1.ipynb for the first time remove "#" in the firs
 ## Data Sources and Acquisition
 
  - Sunshine dataset (Met Office, 2025)
-Select "Year ordered statistics", Region as "England", Parameter as "Sunshine".
-This dataset measures monthly, seasonal and annual total duration of bright sunshine for England since 1910.
+   Select "Year ordered statistics", Region as "England", Parameter as "Sunshine".
+   This dataset measures monthly, seasonal and annual total duration of bright sunshine for England since 1910.
    
  - Rainfall dataset (Met Office, 2025)
-Select "Year ordered statistics", Region as "England", Parameter as "Rainfall".
-This dataset measures monthly, seasonal and annual total precipitation amount for England since 1836.
+   Select "Year ordered statistics", Region as "England", Parameter as "Rainfall".
+   This dataset measures monthly, seasonal and annual total precipitation amount for England since 1836.
 
  - Chlamydia diagnoses dataset (GOV.UK, 2025)
-Select "NCSP: chlamydia testing data in people aged 15 to 24 years in England, 2015 to 2024", and sheet "Table_2_Genderidentity_age". This dataset measures Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, England, 2015 to 2024. (As acquired data is not always squeaky clean, please note the data in the row with the age group 15 - 24 was created by myself using the in the file using the sum of the 15 to 19 and 20 to 24 age groups, then saving this in the Chlamydia.csv file.)
+   Select "NCSP: chlamydia testing data in people aged 15 to 24 years in England, 2015 to 2024", and sheet "Table_2_Genderidentity_age".
+   This dataset measures Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, England, 2015 to 2024. (As acquired data is not always squeaky clean, please note the data in the row with the age group 15 - 24 was created by myself using the in the file using the sum of the 15 to 19 and 20 to 24 age groups, then saving this in the Chlamydia.csv file.)
 
 
 ## Acknowledgements
