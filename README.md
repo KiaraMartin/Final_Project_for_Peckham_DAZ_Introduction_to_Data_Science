@@ -3,7 +3,8 @@
 
 This is the final project of Kiara Martin for the Peckham Digital Accelerator Zone: Introduction to Data Science course. 
 
-I will be cleaning and comparing annual sunshine and rainfall data in England from 2015 to 2024  against annual Chlamydia diagnoses in people aged 15 to 24 years in England between 2015 to 2024 data in attempts to identify a possible correlation between the two datasets.
+I will be cleaning annual Chlamydia diagnoses in people aged 15 to 24 years, sunshine and rainfall data in England from 2015 to 2024. I will then compare the weather data against Chlamydia diagnostic data in attempts to identify a possible correlation between the two datasets.
+
 
 ## Installation instructions
 
