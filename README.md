@@ -5,6 +5,7 @@ This is the final project of Kiara Martin for the Peckham Digital Accelerator Zo
 
 I will be cleaning annual Chlamydia diagnoses in people aged 15 to 24 years, sunshine and rainfall data in England from 2015 to 2024. I will then compare the weather data against Chlamydia diagnostic data in attempts to identify a possible correlation between the two datasets.
 
+Initial hypothesis: When the rainfall volume decreases and the hours of sunshine increase so will the diagnostic rate of sexually transmitted infection (STI)s increase due to more socialisation between sexual partners.
 
 ## Installation Instructions
 
@@ -33,6 +34,14 @@ When installing Final_Project_V1.ipynb for the first time remove "#" in the firs
    Select "NCSP: chlamydia testing data in people aged 15 to 24 years in England, 2015 to 2024", and sheet "Table_2_Genderidentity_age".
    This dataset measures Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, England, 2015 to 2024. (As acquired data is not always squeaky clean, please note the data in the row with the age group 15 - 24 was created by myself using the in the file using the sum of the 15 to 19 and 20 to 24 age groups, then saving this in the Chlamydia.csv file.)
 
+
+## Results and Future Work Hypothesis
+
+There appears to be no trend with annual rainfall and sunshine in England and the Chlamydia diagnoses of people aged 15 to 24 years in England between 2015 to 2024. 
+
+Approximately 1/3 of the diagnoses are from the 15 - 19 and 2/3 of the diagnoses are from the 20 - 24 age group. This could highlight that more public health campaigns promoting safe sex could be targeted at this age group could be benificial in reducing the Chlamydia diagnoses of people aged 15 to 24 years in England. 
+
+Proposed hypothesis for future work: When the monthly rainfall volume decreases and the monthly hours of sunshine increase so will the monthly diagnostic rate of Chlamydia increase due to more socialisation between sexual partners.
 
 ## Acknowledgements
 
