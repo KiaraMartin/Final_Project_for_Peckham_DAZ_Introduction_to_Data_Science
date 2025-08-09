@@ -11,7 +11,9 @@ Hypothesis: When the annual rainfall volume decreases and the annual hours of su
 
 Python version = Python 3.13.5
 
-When installing Final_Project_V1.ipynb for the first time remove "#" in the first cell to install all the necessary libraries (these can be replaced afterwards), restart the Kernal and select "Run All".
+Download the Final_Project_V1.ipynb file and the accompanying "Raw_Data" folder.
+
+When installing Final_Project_V1.ipynb for the first time remove "#"s in the first cell to install all the necessary libraries (these can be replaced afterwards), restart the Kernal and select "Run All".
 
 ### Python Packages Used
 
@@ -19,6 +21,7 @@ When installing Final_Project_V1.ipynb for the first time remove "#" in the firs
  - pandas matplotlib
  - plotly
  - nbformat
+
 
 ## Data Sources and Acquisition
 
