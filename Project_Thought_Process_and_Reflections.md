@@ -1,4 +1,7 @@
-# Initial thoughts and project planning process
+# Project Thought Process and Reflections
+
+
+## Initial thoughts and project planning process
 
 Initial hypothesis: When the rainfall volume decreases and the hours of sunshine increase so will the diagnostic rate of sexually transmitted infection (STI)s increase due to more socialisation between sexual partners.
 
