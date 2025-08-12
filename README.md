@@ -40,7 +40,7 @@ When installing Final_Project_V1.ipynb for the first time remove "#"s in the fir
 
 ## Project Thought Process and Reflections File
 
-This document provides an indepth overview of the project, detailing both its initial and final concepts, the planning and development process, and the key limitations encountered. It outlines the rationale behind the project’s direction, the methodologies applied during its execution, and the considerations that shaped its outcomes. By presenting these elements, the report aims to give a clear understanding of the project’s evolution from conception to completion, while highlighting areas for future improvement.
+This document provides an indepth overview of the project, detailing both its initial and final concepts, mid-project feedback and project alterations, the planning and development process, and the key limitations encountered. It outlines the rationale behind the project’s direction, the methodologies applied during its execution, and the considerations that shaped its outcomes. By presenting these elements, the report aims to give a clear understanding of the project’s evolution from conception to completion, while highlighting areas for future improvement.
 
 
 ## Results and Future Work Hypothesis
