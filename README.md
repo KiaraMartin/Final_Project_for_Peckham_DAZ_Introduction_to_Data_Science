@@ -38,7 +38,7 @@ When installing Final_Project_V1.ipynb for the first time remove "#"s in the fir
    This dataset measures Chlamydia tests and diagnoses by gender identity and age group in people aged 15 to 24 years, England, 2015 to 2024. (As acquired data is not always squeaky clean, please note the data in the row with the age group 15 - 24 was created by myself using the in the file using the sum of the 15 to 19 and 20 to 24 age groups, then saving this in the Chlamydia.csv file.)
 
 
-## Project Thought Process and Reflections file
+## Project Thought Process and Reflections File
 
 This document provides an indepth overview of the project, detailing both its initial and final concepts, the planning and development process, and the key limitations encountered. It outlines the rationale behind the project’s direction, the methodologies applied during its execution, and the considerations that shaped its outcomes. By presenting these elements, the report aims to give a clear understanding of the project’s evolution from conception to completion, while highlighting areas for future improvement.
 
