@@ -12,6 +12,21 @@ If identified this data would be useful to UK public health authorities in preve
 I narrowed all STIs of all ages to focus of sexually transmitted infections to Chlamydia in people aged 15 to 24 years. I selected Chlamydia as this is the most commonly diagnosed STI in the UK (GOV.UK, 2025).	I narrowed the geographical range of the UK to just England so to match the weather dataset with the Chlamydia diagnoses dataset. The option to use regional data withing England was available however, it is not clear what the exact geographical boundaries of regions are for both datasets for example the boundaries of Midlands and East of England could vary between the datasets.
 
 
+## Mid-Project Feedback
+
+“This looks amazing. The insights are clear. I love that you figured out how to make multiple plots in the same graph. 
+
+Some minor suggestions: 
+* Consider more interactive plot using plotly or modify existing data viz [visualisation] to be more accessible (for visually impaired people for instance).
+* Clean up comments and avoid overuse. Only leave relevant comments to explain core structurs of your code. 
+* Add some reflections on data collection and cleaning process - for example, what impacts will you get once you throw N/A or null data points? .
+* README.md file: modify based on “best practices" https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e 
+* Advanced Practice: can you do other data analysis in addition to data viz [visualisation]? — this requires you to learn more advanced DA [data analytial] skills :)”
+
+As a result of this feedback, I incorporated interactive graphs using Plotly to compare diagnostic rates between the two age groups (15 – 19 and 20 – 24). This allowed for a clear visualisation showing that approximately one-third of diagnoses occur in the 15 – 19 age group, while two-thirds occur in the 20 – 24 age group. These insights suggest that future public health campaigns promoting safe sex could be more effectively targeted towards the latter group.
+
+I also refined my code by reducing excessive comments and ensuring concise, purposeful annotations. Additionally, I included reflective notes within the code on the data collection and cleaning processes. Beyond the code, I updated the README.md file and created a supplementary document providing a more detailed account of the project design process. Moving forward, I am committed to expanding my skill set in data analysis and visualisation, and I am actively working to integrate these enhanced capabilities into my next project.
+
 ## Limitations 
 
 Factors that could interfere with the Chlamydia diagnoses data include the Covid-19 pandemic ranging from the years 2020 to 2021. The data sourced states that there 'is notably lower than previous years due to the reconfiguration of sexual health services during the national response to the COVID-19 pandemic.' Other factors that alter Chlamydia diagnostic rate include age, socioeconomic status (Crichton, J. et al., 2015), gender, sexual orientation, sexual behaviour (GOV.UK, 2025).
